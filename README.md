@@ -31,3 +31,8 @@ Link to work:
 https://www.lynda.com/ViewCertificate/E35FB970E0C243FFBED2FE9CA68DD876?utm_source=directlink&utm_medium=sharing&utm_campaign=certificate
 
 https://www.lynda.com/ViewCertificate/EC33591E884B4C8BB16C5E5C1CB3B051?utm_source=directlink&utm_medium=sharing&utm_campaign=certificate
+
+# Day 5: Jan 5, 2019 
+Today's Progress: Completion certificate of using Keras for Deep Learning.
+
+Link to work: Cerfication link https://www.lynda.com/ViewCertificate/9BA81561F249405C8CBC05138BCD9D8F?utm_source=directlink&utm_medium=sharing&utm_campaign=certificate
