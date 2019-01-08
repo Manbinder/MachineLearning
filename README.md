@@ -42,3 +42,8 @@ Link to work: Cerfication link https://www.lynda.com/ViewCertificate/9BA81561F24
 Today's Progress: Completed another course on Neural networks and learnt some new things.
 
 Link to work: Cerfication link https://www.lynda.com/ViewCertificate/189676AB41A14296BB4AF7871DFE5677?utm_source=directlink&utm_medium=sharing&utm_campaign=certificate 
+
+# Day 7: Jan 7, 2019
+Today's Progress: Completed certification of deep learning using Tensorflow
+
+Link to work: https://www.lynda.com/ViewCertificate/1C99E4B0EA2D49558251BF883E7FB5C5?utm_source=directlink&utm_medium=sharing&utm_campaign=certificate 
